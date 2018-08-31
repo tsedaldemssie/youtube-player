@@ -1,0 +1,24 @@
+/*Navigation Bar Styles */
+
+img {
+    width: 4%;
+}
+
+.youtube-icon {
+    width: 20%;
+}
+
+.search-icon {
+    width: 20%
+}
+
+input {
+    height: 25px;
+}
+
+.nav-right-grid-item {
+     float: right;
+     
+    
+    
+}
